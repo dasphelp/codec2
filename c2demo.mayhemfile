@@ -1,0 +1,5 @@
+project: codec2
+target: c2demo
+
+cmds:
+  - cmd: /c2demo 2400 @@ /dev/null
